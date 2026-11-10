@@ -28,3 +28,10 @@ I am practicing Data Structures and Algorithms to improve my problem-solving ski
 • Problem No: 7
 • Approach: Digit Reversal + Overflow Check
 • Language: C++
+
+5• LeetCode 9 - Palindrome Number
+
+- Language: C++
+- Approach: Number Reversal
+- Time Complexity: O(log x)
+- Space Complexity: O(1)
