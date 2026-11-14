@@ -35,3 +35,9 @@ I am practicing Data Structures and Algorithms to improve my problem-solving ski
 - Approach: Number Reversal
 - Time Complexity: O(log x)
 - Space Complexity: O(1)
+
+• Leetcode 340 - longest substring at most k distinct character 
+
+•Language: c++
+• Approach: sliding window +hashing 
+
